@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">556071861146-vftp91vq78uh2n7h759sjch5kbbsos4d.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">556071861146</string>
-    <string name="google_api_key" translatable="false">AIzaSyC7px3WD9Rs0_SoawbS_mlVgGZ1XYobnt0</string>
-    <string name="google_app_id" translatable="false">1:556071861146:android:adbd8966f7a9d1b5701823</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC7px3WD9Rs0_SoawbS_mlVgGZ1XYobnt0</string>
-    <string name="google_storage_bucket" translatable="false">delivery-app-19b87.appspot.com</string>
-    <string name="project_id" translatable="false">delivery-app-19b87</string>
+    <string name="default_web_client_id" translatable="false">467177054349-kadq8e9hfc2bh7rrn7l1movrlitdqqh3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">467177054349</string>
+    <string name="google_api_key" translatable="false">AIzaSyA_omL59Y9nRB2P_7iGFAhAlhF-_2CUSsY</string>
+    <string name="google_app_id" translatable="false">1:467177054349:android:6f291e625360906ef2c2c4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_omL59Y9nRB2P_7iGFAhAlhF-_2CUSsY</string>
+    <string name="google_storage_bucket" translatable="false">dine-3d1ef.appspot.com</string>
+    <string name="project_id" translatable="false">dine-3d1ef</string>
 </resources>
